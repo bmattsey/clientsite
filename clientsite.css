@@ -1,0 +1,131 @@
+
+body {display: block; margin:0;font-family:Arial;background-color:#ffdd1a; font-size: 23px}
+contributors {font-size: 20px; padding-right: 150px; padding-left: 10px}
+#img1{padding-left:20px}
+#bookimg {float: right; padding-left: 50px; padding-right: 100px}
+#img2{float: left; padding:20px}
+#img3{padding-left: 15px}
+#img4 {padding-left: 15px}
+#video {padding: 15px}
+
+HEADSHOTS
+#Barowskiimg{float: left; padding-left: 10px; clear:both;}
+#headshot{float: left; padding-left: 10px; padding-right: 10px; clear:both;}
+#Crawfordimg{float: left; padding-left: 10px}
+#Cumminsimg{float: left; padding-left: 10px}
+#Etchasonimg{float: left; padding-left: 10px}
+#Griggsimg{float: left; padding-left: 10px}
+#Hogarthimg{float: left; padding-left: 10px}
+#Lauximg{float: left; padding-left: 10px}
+#Magagnaimg{float: left; padding-left: 10px}
+#Pierreimg{float: left; padding-left: 10px}
+#Quickimg{float: left; padding-left: 10px}
+
+
+
+footer {text-align: center; background-color: #ff1a1a;height: 50px}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #b30000;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 17px;    
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+      #ff1a1a
+      #2F3E46
+      
+      background color #ffdd1a #b30000
